@@ -4,6 +4,10 @@
 def mytoolfun():
     print("hello my tool fun")
 
+def SendEmail():
+    pass
+
+
 if __name__ == "__main__":
     mytoolfun()
 
